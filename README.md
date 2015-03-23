@@ -1,7 +1,7 @@
 DevOps Power Tools
 =======
 
-#### This purpose of this book is to give you an idea of what DevOps is and show you some of the most powerful tools out there.
+#### The purpose of this book is to give you an idea of what DevOps is and show you some of the most powerful tools out there.
 #### I do not claim that the list is complete neither that this is a guide to become DevOps engineer, but it's a good starting point.
 
 I would like to set the ground basics for DevOps tool set and put you on the second level of [Dreyfus model of skill acquisition](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) - Advanced beginner. If you want to become more proficient you will need to read deeply about the topics that are concerning your position and needs. I realize that this is common sense but wanted to clarify it.
