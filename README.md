@@ -12,5 +12,4 @@ Primary influenced by NewRelic's [list of devops tools](http://newrelic.com/devo
 This books is free and open source, you may download the source in any desired format under [GNU general public license version 2.0](https://github.com/miglen/devops-power-tools/blob/master/LICENSE).
 If you are SME and you wish to contribute I would be glad to give you access to the repository.
 
-
-!INCLUDE "SUMMARY.md"
+{% include "SUMMARY.md" %}
