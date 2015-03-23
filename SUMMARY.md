@@ -7,7 +7,17 @@
 	* Unix (Solaris, AIX, HP/UX, etc.)
 	* Windows
 	* Mac OS X 
-* Programming Languages
+* Languages
+	* Bash (Posix shell)
+	* Java
+	* Perl
+	* C# / .Net
+	* PHP
+	* Ruby
+	* Python
+	* Chef/Puppet (Configuration languages)
+	* JavaScript
+	* SQL
 * Infrastructure as a Service
 * Virtualization Platforms
 * Containerization Tools
