@@ -9,7 +9,7 @@ General structure to be followed:
 * *Future reading* - Links to books, guides or manuals with additional information.
 
 
-# Importance about languages
+# Used sources
 http://server.dzone.com/articles/most-important-languages
 http://www.devopsmastery.com/devops/2014/3/27/what-scripting-and-programming-language-would-you-choose
 http://www.techrepublic.com/article/sys-admins-hone-your-devops-skills-by-learning-python/
