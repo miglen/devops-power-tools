@@ -13,4 +13,4 @@ This books is free and open source, you may download the source in any desired f
 If you are SME and you wish to contribute I would be glad to give you access to the repository.
 
 
-{% include "./SUMMARY.md" %}
+!INCLUDE "SUMMARY.md"
