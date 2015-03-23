@@ -119,4 +119,4 @@ Percona Server
 	* Code Climate
 	* iPerf 
 	* lldpd 
-* [Used sources](chapter3.md)
+* [Used sources](SOURCES.md)
