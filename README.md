@@ -9,7 +9,7 @@ In my daily [work](http://linkedin.com/in/miglen) as Web & Middleware Technical 
 Primary influenced by NewRelic's [list of devops tools](http://newrelic.com/devops/toolset) and following the logic from the infamous book [Unix Power Tools](http://shop.oreilly.com/product/9780596003302.do) from where also I have figured out the title. It has being written in [Markdown syntax](http://daringfireball.net/projects/markdown/syntax) using [StackEdit.io](http://stackedit.io). Published via [GitBooks](https://www.gitbook.com/@miglen) with [GitHub](http://github.com/miglen) synchronisation. Oftenly distracted by [DevOps Reactions](http://devopsreactions.tumblr.com/)
 
 ## Collaboration
-This books is free and open source, you may download the source or in any format desired under [GNU general public license version 2.0](https://github.com/miglen/devops-power-tools/blob/master/LICENSE).
+This books is free and open source, you may download the source in any desired format under [GNU general public license version 2.0](https://github.com/miglen/devops-power-tools/blob/master/LICENSE).
 If you are SME and you wish to contribute I would be glad to give you access to the repository.
 
 
