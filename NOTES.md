@@ -20,3 +20,4 @@ http://www.drdobbs.com/architecture-and-design/top-10-practices-for-effective-de
 
 To be great DevOps engineer you should know a lot from many perspectives, to be special breed of SysAdmin, Developer and QA and all that at once.
 To know everything for everything is nearly impossible, this is why the DevOps Engineers are so impossible.
+IT operations, are the set of all processes and services that are both provisioned by an IT staff to their internal or external clients and used by themselves, to run themselves as a business.
