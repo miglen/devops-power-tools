@@ -15,23 +15,108 @@
 	* PHP
 	* Ruby
 	* Python
-	* Chef/Puppet (Configuration languages)
 	* JavaScript
 	* SQL
-* Infrastructure as a Service
+	* Configuration languages
+* Infrastructure as a Service (IaaS)
+	* Amazon Web Services (AWS)
+	* Rackspace 
+	* Cloud Foundry
+	* Azure
+	* OpenStack
 * Virtualization Platforms
+	* VMware 
+	* KVM
+	* Xen
+	* VirtualBox 
+	* Vagrant 
 * Containerization Tools
+	* Containerization Tools
+	* LXC
+	* Solaris Containers
+	* Docker 
 * Linux OS Installation
+	* Kickstart 
+	* Cobbler 
+	* Fai	
 * Configuration Management
-* Test and Build Systems
+	* Puppet
+	* Chef
+	* Ansible
+	* CFEngine 
+	* SaltStack
+	* RANCID 
+	* Ubuntu Juju
+	* Smartfrog
+* Test and Build Systems (Continuous integration)
+	* Jenkins
+	* Travis CI	
+	* Maven 
+	* Ant 
+	* Gradle 	
 * Application Deployment
+	* Capistrano
 * Application Servers
+	* Tomcat
+	* Jetty 
+	* JBoss
+	* Glassfish
+	* Websphere
+	* Weblogic
 * Web Servers
+	* nginx 
+	* Apache 
+	* IIS
 * Messaging queues
+	* ActiveMQ
+	* RabbitMQ
+	* WebSphere MQ
 * Caching Servers
+	* memcache
+	* varnish
+	* squid
 * Databases
+Percona Server 
+	* MySQL
+	* PostgreSQL
+	* OpenLDAP
+	* MongoDB
+	* Cassandra
+	* Redis 
+	* Oracle
+	* MS SQL
 * Monitoring, Alerting, and Trending
+	* New Relic 
+	* Nagios 
+	* Icinga
+	* Graphite
+	* Ganglia
+	* Cacti 
+	* PagerDuty  
+	* Sensu
 * Process Supervisors
+	* PaperTrail 
+	* Logstash
+	* Loggly
+	* Splunk
+	* SumoLogic
+	* Monit 
+	* runit
+* Supervisor
+	* god
+	* Blue Pill
+	* Upstart
+	* systemd
+* Revision control software
+	* Git
+	* SVN (Apache Subversion)
 * Security
+	* Snorby Threat Stack 
+	* Tripwire
+	* Snort
 * Miscellaneous Tools
+	* Multihost SSH Wrapper 
+	* Code Climate
+	* iPerf 
+	* lldpd 
 * [Used sources](chapter3.md)

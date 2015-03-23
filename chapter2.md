@@ -1,19 +1,3 @@
 # DevOps Tools
 
-* Operating Systems
-* Infrastructure as a Service
-* Virtualization Platforms
-* Containerization Tools
-* Linux OS Installation
-* Configuration Management
-* Test and Build Systems
-* Application Deployment
-* Application Servers
-* Web Servers
-* Messaging queues
-* Caching Servers
-* Databases
-* Monitoring, Alerting, and Trending
-* Process Supervisors
-* Security
-* Miscellaneous Tools
+To not be confused in the future reading of the book I would like to clarify something. The term "tool" is used to describe multiple things, in the following list this is refereed to software, programming language or even an operating system. Tool is every single software related element used in your DevOps life.
