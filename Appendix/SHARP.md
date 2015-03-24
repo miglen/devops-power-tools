@@ -1,0 +1,5 @@
+## Sharpen the Saw
+
+This is a small reference to the book "The Seven Habits of Highly Effective People" which I'm suggesting you to read it. To be great in your area, especially in the IT sector where everything evolves exponentially you need to learn daily. To be great DevOps engineer you need to be good at development, configuration, system administration, quality assurance and of course IT operations. That means you'll need a hell lot of a knowledge and experience to grow in your career, therefore you need to sharpen that blade daily. 
+
+I believe that to become good in any field, especially in DevOps you need to be Lifelong learner. This is not a target you just achieve and afterwards nothing else is have to be done. This is a lifelong journey to be proficient in your expertise and job area.
