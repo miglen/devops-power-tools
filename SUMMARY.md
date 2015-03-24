@@ -5,7 +5,7 @@
 	* Unix (Solaris, AIX, HP/UX, etc.)
 	* Windows
 	* Mac OS X 
-* Languages
+* [Computer Languages](Computer Languages/README.md)
 	* Bash (Posix shell)
 	* Java
 	* Perl
@@ -16,27 +16,27 @@
 	* JavaScript
 	* SQL
 	* Configuration languages
-* Infrastructure as a Service (IaaS)
+* [Infrastructure as a Service (IaaS)](IaaS/README.md)
 	* Amazon Web Services (AWS)
 	* Rackspace 
 	* Cloud Foundry
 	* Azure
 	* OpenStack
-* Virtualization Platforms
+* [Virtualization Platforms](Virtualization Platforms/README.md)
 	* VMware 
 	* KVM
 	* Xen
 	* VirtualBox 
 	* Vagrant 
-* Containerization Tools
+* [Containerization Tools](Containerization Tools/README.md)
 	* LXC
 	* Solaris Containers
 	* Docker 
-* Linux OS Installation
+* [Linux OS Installation](Linux OS Installation/README.md)
 	* Kickstart 
 	* Cobbler 
 	* Fai	
-* Configuration Management
+* [Configuration Management](Configuration Management/README.md)
 	* Puppet
 	* Chef
 	* Ansible
@@ -45,34 +45,34 @@
 	* RANCID 
 	* Ubuntu Juju
 	* Smartfrog
-* Test and Build Systems (Continuous integration)
+* [Test and Build Systems (Continuous integration)](Test and Build Systems (Continuous integration)/README.md)
 	* Jenkins
 	* Travis CI	
 	* Maven 
 	* Ant 
 	* Gradle 	
-* Application Deployment
+* [Application Deployment](Application Deployment/README.md)
 	* Capistrano
-* Application Servers
+* [Application Servers](Application Servers/README.md)
 	* Tomcat
 	* Jetty 
 	* JBoss
 	* Glassfish
 	* Websphere
 	* Weblogic
-* Web Servers
+* [Web Servers](Web Servers/README.md)
 	* nginx 
 	* Apache 
 	* IIS
-* Messaging queues
+* [Messaging queues](Messaging queues/README.md)
 	* ActiveMQ
 	* RabbitMQ
 	* WebSphere MQ
-* Caching Servers
+* [Caching Servers](Caching Servers/README.md)
 	* memcache
 	* varnish
 	* squid
-* Databases
+* [Databases](Databases/README.md)
 	* Percona Server 
 	* MySQL
 	* PostgreSQL
@@ -82,7 +82,7 @@
 	* Redis 
 	* Oracle
 	* MS SQL
-* Monitoring, Alerting, and Trending
+* [Monitoring, Alerting, and Trending](Monitoring, Alerting, and Trending/README.md)
 	* New Relic 
 	* Nagios 
 	* Icinga
@@ -91,7 +91,7 @@
 	* Cacti 
 	* PagerDuty  
 	* Sensu
-* Process Supervisors
+* [Process Supervisors](Process Supervisors/README.md)
 	* PaperTrail 
 	* Logstash
 	* Loggly
@@ -99,19 +99,19 @@
 	* SumoLogic
 	* Monit 
 	* runit
-* Supervisor
+* [Supervisor](Supervisor/README.md)
 	* god
 	* Blue Pill
 	* Upstart
 	* systemd
-* Revision control software
+* [Revision control software](Revision control software/README.md)
 	* Git
 	* SVN (Apache Subversion)
-* Security
+* [Security](Security/README.md)
 	* Snorby Threat Stack 
 	* Tripwire
 	* Snort
-* Miscellaneous Tools
+* [Miscellaneous Tools](Miscellaneous Tools/README.md)
 	* Multihost SSH Wrapper 
 	* Code Climate
 	* iPerf 
