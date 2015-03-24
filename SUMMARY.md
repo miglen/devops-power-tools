@@ -1,6 +1,6 @@
 # Summary
 
-* [Operating Systems](./Operating%20Systems/README.md)
+* [Operating Systems](./Operating Systems/README.md)
 	* Linux (RHEL, CentOS, Ubuntu, Debian, etc.) 
 	* Unix (Solaris, AIX, HP/UX, etc.)
 	* Windows
