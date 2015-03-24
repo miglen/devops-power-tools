@@ -16,4 +16,4 @@ This book was inspired by [NewRelic DevOps page](http://newrelic.com/devops). Th
 ## Collaboration & License
 This books is free and open source, and it will stay this way. You may download the source in any desired format under [GNU general public license version 2.0](https://github.com/miglen/devops-power-tools/blob/master/LICENSE). If you feel knowledge and you want to contribute I'll be glad to give you that opportunity.
 
-{% include "SUMMARY.md" %}
+{% include "./SUMMARY.md" %}
