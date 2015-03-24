@@ -11,6 +11,6 @@ In my work as [Web & Middleware Technical Support Engineer](http://linkedin.com/
 This book was inspired by [NewRelic DevOps page](http://newrelic.com/devops). The name was given after the infamous book [Unix Power Tools](http://shop.oreilly.com/product/9780596003302.do). It has being written in [Markdown syntax](http://daringfireball.net/projects/markdown/syntax) using Notepad++. Published via [GitBooks](https://www.gitbook.com/book/miglen/devops-power-tools/details) with [GitHub](https://github.com/miglen/devops-power-tools) synchronisation. I was often distracted by [DevOps Reactions](http://devopsreactions.tumblr.com/)
 
 ## Collaboration & License
-This books is free and open source, and it will stay this way. You may download the source in any desired format under [GNU general public license version 2.0](https://github.com/miglen/devops-power-tools/blob/master/LICENSE). If you feel knowledge and you want to contribute I'll be glad to give you that opportunity.
+This books is free and open source, and it will stay this way. You may download the source in any desired format under [GNU general public license version 2.0](https://github.com/miglen/devops-power-tools/blob/master/LICENSE). If you feel knowledge enough and you want to contribute drop me a line at [devops@miglen.com](mailto:devops@miglen.com)
 
 {% include "./SUMMARY.md" %}
