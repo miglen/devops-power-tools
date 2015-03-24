@@ -1,8 +1,6 @@
 # Summary
 
-* [What is DevOps?](chapter1.md)
-* [DevOps Tools](chapter2.md)
-* Operating Systems
+* [Operating Systems](./Operating%20Systems/README.md)
 	* Linux (RHEL, CentOS, Ubuntu, Debian, etc.) 
 	* Unix (Solaris, AIX, HP/UX, etc.)
 	* Windows
@@ -31,7 +29,6 @@
 	* VirtualBox 
 	* Vagrant 
 * Containerization Tools
-	* Containerization Tools
 	* LXC
 	* Solaris Containers
 	* Docker 
@@ -76,7 +73,7 @@
 	* varnish
 	* squid
 * Databases
-Percona Server 
+	* Percona Server 
 	* MySQL
 	* PostgreSQL
 	* OpenLDAP
