@@ -81,6 +81,7 @@
 	* Redis 
 	* Oracle
 	* MS SQL
+	* HBase
 * [Monitoring, Alerting, and Trending](Monitoring, Alerting, and Trending/README.md)
 	* New Relic 
 	* Nagios 
@@ -90,6 +91,7 @@
 	* Cacti 
 	* PagerDuty  
 	* Sensu
+	* [SiteScope](http://www8.hp.com/us/en/software-solutions/sitescope-application-monitoring/index.html)
 * [Process Supervisors](Process Supervisors/README.md)
 	* PaperTrail 
 	* Logstash
@@ -115,5 +117,9 @@
 	* Code Climate
 	* iPerf 
 	* lldpd 
+	* Hadoop
+	* Flume
+	* Pig
+	* MapReduce	
 * [Sharpen the saw](Appendix/SHARP.md)
 * [Used sources](Appendix/SOURCES.md)
