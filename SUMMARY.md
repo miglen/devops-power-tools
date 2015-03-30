@@ -1,11 +1,17 @@
 # Summary
 * [Operating Systems](Operating Systems/README.md)
-	* Linux (RHEL, CentOS, Ubuntu, Debian, etc.) 
-	* Unix (Solaris, AIX, HP/UX, etc.)
+	* Unix (Solaris, AIX, HP/UX)
+		* Introduction
+		* Comparison 
+		* Installation
+		* Further reading
+	* Linux (RHEL, CentOS, Fedora, Ubuntu, Debian) 
 	* Windows
-	* Mac OS X 
+	* Mac OS X
 * [Computer Languages](Computer Languages/README.md)
+	* A brief of history
 	* Bash (Posix shell)
+	* R
 	* Java
 	* Perl
 	* C# / .Net
@@ -82,6 +88,7 @@
 	* Oracle
 	* MS SQL
 	* HBase
+	* Hive
 * [Monitoring, Alerting, and Trending](Monitoring, Alerting, and Trending/README.md)
 	* New Relic 
 	* Nagios 

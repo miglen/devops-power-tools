@@ -28,3 +28,4 @@ IT operations, are the set of all processes and services that are both provision
 
 Packer - https://www.packer.io/
 HP Open View - http://en.wikipedia.org/wiki/HP_OpenView
+Big Data tools - http://www.datamation.com/data-center/50-top-open-source-tools-for-big-data-1.html 
